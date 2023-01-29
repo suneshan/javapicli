@@ -9,4 +9,6 @@ This is a Java Command Line Application with a menu option for calculating the h
 ### Start the application
 
 ### Menu Options
+When the application starts up the following menu options are displayed:
+![image](https://user-images.githubusercontent.com/8549986/215357083-8028d417-6819-479b-8a05-67f68eddadb3.png)
 
