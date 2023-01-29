@@ -25,9 +25,12 @@ When the application starts up the following menu options are displayed:
 
 #### Option 3: Print address of type
 
+![image](https://user-images.githubusercontent.com/8549986/215357426-0660f200-c5c0-49aa-90cc-014e8ebbaec1.png)
+
 
 #### Option 4: Validate Addresses
 
+![image](https://user-images.githubusercontent.com/8549986/215357446-af5158b0-2e76-4e1e-8274-f2564b72f71e.png)
 
 ### Unit Tests
 
