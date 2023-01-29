@@ -8,6 +8,10 @@ This is a Java Command Line Application with a menu option for calculating the h
 
 ### Start the application
 
+There are several ways to start the standalone application i.e. via the IDE or command line. 
+
+![image](https://user-images.githubusercontent.com/8549986/215357551-40c328f5-cfa5-4120-8f5f-a1ed3e0f1fa6.png)
+
 ### Menu Options
 When the application starts up the following menu options are displayed:
 ![image](https://user-images.githubusercontent.com/8549986/215357083-8028d417-6819-479b-8a05-67f68eddadb3.png)
