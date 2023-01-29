@@ -1,2 +1,7 @@
 # javapicli
-Java Command Line Application
+
+## This is a Java Command Line Application 
+
+### Description
+
+This is a Java Command Line Application demonstrating...
