@@ -1,6 +1,6 @@
-import za.co.sunesh.javapicli.Controller;
-import za.co.sunesh.javapicli.utils.AddressType;
+package za.co.sunesh.javapicli;
 
+import za.co.sunesh.javapicli.utils.AddressType;
 import java.util.Arrays;
 import java.util.Scanner;
 
